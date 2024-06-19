@@ -1,0 +1,16 @@
+id_calificacion,id_usuario_calif,id_contenido_calif,calificacion,descripcion,f_insercion_calif
+1,1,1,4,Me aburrio al la mitad,2024-06-01
+2,1,2,5,Buena idea pero no la supieron explotar,2024-06-02
+3,2,3,7,Muy buenaa,2024-06-03
+4,3,4,10,Una de mis favoritas ahora y siempre,2024-06-04
+5,4,5,1,"Muy desepcionado, nunca mas la veo",2024-06-05
+6,5,6,5,"Safa, no quedo muy contento",2024-06-06
+7,7,7,3,No me gusto para nada,2024-06-07
+8,8,8,2,Me aburri en toda la pelicula,2024-06-08
+9,10,9,6,"Me gusto, podria estar mucho mejor igual",2024-06-09
+10,11,10,8,Muy buena peli,2024-06-10
+11,11,11,10,"Ya la veo por segunda vez!, me encanto",2024-06-11
+12,13,12,1,Desepcionado,2024-06-12
+13,12,13,4,Muy mala,2024-06-13
+14,14,14,5,"Ni me gusto, ni la odie, ahi",2024-06-14
+15,15,15,8,Nos gusto mucho,2024-06-15

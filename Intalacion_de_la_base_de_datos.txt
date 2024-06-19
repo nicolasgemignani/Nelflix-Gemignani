@@ -1,0 +1,12 @@
+1. Descargar 'Nelflix+Gemignani'.
+2. Abrir MySQLWorkbench..
+3. Desde MySQLWorkbench buscamos la carpeta 'Nelflix+Gemignani'.
+4. Vamos a 'SQL'.
+5. Abrimos los archivos : 01_CreateSchema, 02_CreateTable, 03_Triggers, 04_Insert, 05_Views, 06_Funciones, 
+	07_StoredProcedure y 08_DCL_TCL, cada uno en un SQL file diferente.
+6. Seleccionamos todo lo que se encuentra en 01_CreateSchema y lo ejecutamos.
+7. Asi hasta el archivo 03_Triggers, siempre en el orden asignado (01, 02, 03 etc...)
+8. En este punto arranca el tema de insercion que esta detallado en el archivo 'Paso a paso insercion'.
+9. Terminado la insercion por importancion seguimos con la insercion por codigo.
+10. Seleccionamos todo lo que se encuentra en 04_Insert y lo ejecutamos.
+11. Asi hasta el archivo 08_DCL_TCL.

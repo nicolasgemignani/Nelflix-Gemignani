@@ -1,0 +1,6 @@
+id_clasificacion,clasificacion,descripcion_clas,f_insercion_clas
+1,G,Apto para todos los públicos,2024-01-01
+2,PG,"Se sugiere la guía de los padres, algunos contenidos pueden no ser adecuados para niños",2024-01-01
+3,PG13,"Advertencia para padres, algunos contenidos pueden no ser adecuados para menores de 13 años",2024-01-01
+4,R,"Restringido, los menores de 17 años requieren la compañía de un adulto",2024-01-01
+5,NC17,No apto para menores de 17 años,2024-01-01

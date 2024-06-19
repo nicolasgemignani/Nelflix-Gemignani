@@ -1,0 +1,16 @@
+id_usuario,nombre_completo,email,contrasena,suscripcion_activa,f_insercion_us
+1,leandro garcia,leandrog@outlook.com,123abc,1,2024-05-01
+2,liliana gonzales,liligonzalez@outlook.com,345def,1,2024-05-02
+3,sofia benitez,sofibenitez@outlook.com,789ghi,0,2024-05-03
+4,tomas ernesto diaz,tomasediaz@outlook.com,112jkl,1,2024-05-04
+5,patricia rolan,patriciarolan@outlook.com,134llm,1,2024-05-05
+6,brandon quintero,bquinteros@outlook.com,156nop,1,2024-05-06
+7,natalia mora,nataliamora@outlook.com,178qrs,0,2024-05-07
+8,luciano dinenno,lucianod@outlook.com,191tuv,1,2024-05-08
+9,fabian sueiro,fabiansueiro@outlook.com,212wxy,1,2024-05-09
+10,rocio juarez,rojuarez@outlook.com,234zab,1,2024-05-10
+11,ignacio lucas rodriguez,ignaciolrodriguez@outlook.com,256cde,0,2024-05-11
+12,felix ivan gomez,fivangomez@outlook.com,278efg,1,2024-05-12
+13,bruno david fernandez,brunodfernandez@outlook.com,291hij,0,2024-05-13
+14,jorge luis lopez,jorgeluisl@outlook.com,323kln,1,2024-05-14
+15,tomas leandro martinez,tlmartinez@outlook.com,345mop,1,2024-05-15

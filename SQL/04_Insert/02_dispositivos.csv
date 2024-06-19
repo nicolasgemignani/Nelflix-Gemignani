@@ -1,0 +1,31 @@
+id_dispositivo,id_usuario_disp,dispositivo,sist_operativo,f_insercion_disp
+1,1,Tablet,Android,2024-05-01
+2,2,Celular,IOS,2024-05-02
+3,1,Computadora,Windows,2024-05-01
+4,1,Television,Google TV,2024-05-01
+5,2,Computadora,Linux,2024-05-02
+6,3,Celular,IOS,2024-05-03
+7,4,Tablet,Android,2024-05-04
+8,1,Celular,Android,2024-05-04
+9,4,Celular,IOS,2024-05-04
+10,3,Television,Android TV,2024-05-05
+11,5,Television,Android TV,2024-05-05
+12,6,Computadora,Windows,2024-05-06
+13,5,Celular,IOS,2024-05-06
+14,6,Celular,Android,2024-05-07
+15,7,Computadora,Windows,2024-05-07
+16,8,Tablet,Android,2024-05-08
+17,9,Celular,IOS,2024-05-09
+18,9,Computadora,Windows,2024-05-09
+19,10,Television,Google TV,2024-05-10
+20,11,Computadora,Linux,2024-05-11
+21,11,Celular,IOS,2024-05-12
+22,12,Tablet,Android,2024-05-12
+23,12,Celular,Android,2024-05-13
+24,13,Celular,IOS,2024-05-13
+25,12,Television,Android TV,2024-05-14
+26,14,Television,Android TV,2024-05-14
+27,12,Computadora,Windows,2024-05-15
+28,15,Celular,IOS,2024-05-15
+29,15,Celular,Android,2024-05-15
+30,14,Computadora,Windows,2024-05-15
